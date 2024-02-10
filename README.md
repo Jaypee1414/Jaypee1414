@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Jaypee1414
+- 👋 Hi, I’m @Jaypee
+- from Philippines
 - 👀 I’m interested Web-Dev and Mobile-Dev ...
 - Anyone interested to teach me DM me 
 
