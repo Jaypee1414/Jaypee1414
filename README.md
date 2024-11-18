@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaypee1414&label=Profile%20views&color=0e75b6&style=flat" alt="jaypee1414" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jaypee1414" alt="jaypee1414" /></a> </p>
-
 - 🌱 I’m currently learning **React Native and more ...**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-jaypees-projects.vercel.app/](https://portfolio-jaypees-projects.vercel.app/)
